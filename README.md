@@ -1,6 +1,6 @@
 # Dark Sender 🖤
 
-Dark Sender is a social engineering offensive web multi-tool that combines an email spoofer and an SMS spoofer in a single web application. 
+Dark Sender is a social engineering offensive multi-tool that combines an email spoofer and an SMS spoofer in a single web application. 
 If you want a quick and anonymous solution to spoofing, this sender is for you. Pay with cryptocurrencies and without registration.
 
 ![SMS](https://github.com/user-attachments/assets/291fcf34-76b9-45f4-81b8-5d627d2a8176) ![EMAILS](https://github.com/user-attachments/assets/5ab61767-6b35-44dc-a63e-55a76036c162) 
